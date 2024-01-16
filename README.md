@@ -1,4 +1,4 @@
-# lab5-singularity
+# lab6-singularity
 Máster en Bioinformática. Cloud, HPC & Bio
 
 Laboratorio 6: Contenedores y HPC con Singularity
